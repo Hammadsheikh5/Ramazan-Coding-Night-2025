@@ -49,7 +49,7 @@ uv add fastapi[standard]
 .venv\Scripts\activate
 ```
 
-For Linux/macOS:
+For Linux/macOS::
 
 ```sh
 source .venv/bin/activate
